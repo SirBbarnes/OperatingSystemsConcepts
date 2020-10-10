@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sergio/Desktop/ProgrammingAssignment2 - Sergio Torres/main.c
+stdio.h
+-
+stdlib.h
+-
+pthread.h
+-
+

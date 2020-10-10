@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sergio/Desktop/4365/main.cpp
+stdlib.h
+-
+stdio.h
+-
+unistd.h
+-
+sys/types.h
+-
+
